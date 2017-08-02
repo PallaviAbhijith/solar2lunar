@@ -18,7 +18,7 @@ Age as per lunar calender: ?? years ?? months ?? days
 Age as per solar calender: ?? years ?? months ?? days
 ```
 
-### Web Service
+### GUI
 
 * Go to [http://localhost:3443/solar2lunar](http://localhost:3443/solar2lunar)
 * Select date and click `Determine Age` to view the age as per lunar and solar calenders.
